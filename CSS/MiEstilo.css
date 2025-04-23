@@ -1,18 +1,18 @@
-body {
-    place-items: center;
-}
+
 img {
     width: 320px;
     height: 320px;
     border-radius: 60px;
 }
 
+
+
 .sectionImg {
     background-color: rgb(27, 52, 193);
     text-align: center;
     color: white;
     padding:  25px;
-    width: 95%;
+    width: 92.5%;
 }
 
 section {
